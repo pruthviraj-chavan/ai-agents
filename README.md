@@ -148,14 +148,3 @@ A curated collection of **Awesome LLM apps built with RAG, AI Agents, Multi-agen
     pip install -r requirements.txt
     ```
 
-4. **Follow the project-specific instructions** in each project's `README.md` file to set up and run the app.
-
-## 🤝 Contributing to Open Source
-
-Contributions are welcome! If you have any ideas, improvements, or new apps to add, please create a new [GitHub Issue](https://github.com/Shubhamsaboo/awesome-llm-apps/issues) or submit a pull request. Make sure to follow the existing project structure and include a detailed `README.md` for each new app.
-
-### Thank You, Community, for the Support! 🙏
-
-[![Star History Chart](https://api.star-history.com/svg?repos=Shubhamsaboo/awesome-llm-apps&type=Date)](https://star-history.com/#Shubhamsaboo/awesome-llm-apps&Date)
-
-🌟 **Don’t miss out on future updates! Star the repo now and be the first to know about new and exciting LLM apps with RAG and AI Agents.**
